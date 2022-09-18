@@ -6,6 +6,12 @@ In theory, you may use any percentage amount you please, but this program was on
 
 **Note:** as noted above, this is a Command Line Interface (CLI) tool and does not offer a Graphical User Interface (GUI). As per the license, anyone is free to modify this code or use it for their own purposes. If there is feature you would like to be added to this program, feel free to leave a pull request and I will check it out.
 
+## Dependencies:
+```
+git
+python3
+```
+
 ## Installation:
 To install this program, please use `git clone` in your preferred directory.
 Navigate to the directory of installation and run
