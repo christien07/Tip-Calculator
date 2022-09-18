@@ -1,6 +1,6 @@
 # Tip Calculator
 ## Introduction
-This CLI program can give a rough estimate for a bill based on any given dollar amount for a bill plus a percentage of 10%, 12%, or 15% for the tip.
+This CLI program can give a rough estimate for a bill based on any given dollar amount for a bill plus a percentage of 10%, 12%, or 15% for the tip. You may additionally input how many people will be splitting the bill with you, but feel free to input 1 if this is not relevant.
 
 In theory, you may use any percentage amount you please, but this program was only intended for the aforementioned percentages. It is not recommended to use other percentages as I have not personally tested the use cases.
 
